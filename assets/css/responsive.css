@@ -1,0 +1,381 @@
+@media (min-width: 375px) and (max-width: 575px){
+    .banner{
+    padding: 80px 0px;
+    }
+    .carasoull-text h1{
+    font-size: 37px;
+    font-weight: 500;
+    line-height: 50px;
+    }
+    .carasoull-text p{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    width: 85%;
+    padding: 20px 0px 30px 0px;
+    }
+    .carasoull-text a{
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    }
+    .carousel-indicators {
+    margin-bottom: 2rem;
+    color: #a066c9;
+    }
+    /*  .agency} */
+    .agency{
+    padding: 20px 0px 0px 0px;
+    }
+    .agency-first-part h3{
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 37px;
+    width: 100%;
+    }
+    .agency-first-part h3::before{
+    position: absolute;
+    content: "";
+    background: #753d9d;
+    height: 50px;
+    width: 5px;
+    left: 0;
+    top: 12px;
+    }
+    .agency-first-part p{
+    text-align: justify;    
+    padding-bottom: 45px;
+    }
+    .agency-part-2{
+      margin-top: 20px;
+    }
+    /*  */
+    .feature-part-content{
+        text-align: center;
+    }
+    .feature-part-content p{
+    color: #0d113d;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 300;
+    transition: .4s all;
+  }
+  /*  */
+  .digital{
+    padding: 20px 0px 50px 0px;
+    margin-top: 25px;
+  }
+  .digital-part-content h3{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 500;
+    color: #fff;
+  }
+    .digital-part-content a{
+    font-size: 13px;
+    font-weight: 400;
+    padding: 10px 20px 10px 20px;
+  }
+  .project{
+   background: #753d9d;
+   padding: 40px 0px;
+   margin-top: 5px;
+}
+.portfolio{
+   padding: 30px 0px 50px 0px;
+}
+.supp-1 h5{
+   font-size: 20px;
+   color: #fff;
+   line-height: 28px;
+   font-weight: 500;
+  }
+.supp-2 a{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 20px 10px 20px;
+}
+.system-part-content h3{
+   font-size: 28px;
+   line-height: 32px;
+   font-weight: 600;
+   color: #0d113d;
+  }
+  .form-control {
+	width: 80%;
+	padding: .45rem .75rem;
+  margin: 0px auto;
+  font-size: 13px;
+
+}
+ .newslater-3 {
+   margin-top: 15px;
+   margin-left: 20px;
+  }
+.newslater-3 a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 30px 10px 30px;
+}
+.news-container{
+   padding: 30px 0px;
+  }
+  .blog-part-content-3 p{
+    padding-top: 5px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    .banner{
+    padding: 80px 0px;
+    }
+    .carasoull-text h1{
+    font-size: 37px;
+    font-weight: 500;
+    line-height: 50px;
+    }
+    .carasoull-text p{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    width: 85%;
+    padding: 20px 0px 30px 0px;
+    }
+    .carasoull-text a{
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    }
+    .carousel-indicators {
+    margin-bottom: 2rem;
+    color: #a066c9;
+    }
+    /*  .agency} */
+    .agency{
+    padding: 20px 0px 0px 0px;
+    }
+    .agency-first-part h3{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    width: 100%;
+    }
+    .agency-first-part h3::before{
+    position: absolute;
+    content: "";
+    background: #753d9d;
+    height: 80px;
+    width: 5px;
+    left: 0;
+    top: 22px;
+    }
+    #iiv{
+      text-align: justify;
+    }
+    .agency-first-part p{
+    text-align: justify;    
+    padding-bottom: 45px;
+    }
+    /*  */
+    .feature-part-content{
+        text-align: center;
+    }
+    .feature-part-content p{
+    color: #0d113d;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 300;
+    transition: .4s all;
+  }
+  /*  */
+  .digital{
+    padding: 20px 0px 50px 0px;
+    margin-top: 25px;
+  }
+  .digital-part-content h3{
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: 600;
+    color: #fff;
+  }
+    .digital-part-content a{
+    font-size: 13px;
+    font-weight: 400;
+    padding: 15px 25px 15px 25px;
+  }
+  .system-part-img img{
+    padding-top: 130px;
+  }
+  .project{
+   background: #753d9d;
+   padding: 40px 0px;
+   margin-top: 5px;
+}
+.portfolio{
+   padding: 30px 0px 50px 0px;
+}
+.supp-1 h5{
+   font-size: 20px;
+   color: #fff;
+   line-height: 28px;
+   font-weight: 500;
+  }
+.supp-2 a{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 20px 10px 20px;
+}
+.system-part-content h3{
+   font-size: 28px;
+   line-height: 32px;
+   font-weight: 600;
+   color: #0d113d;
+  }
+  .form-control {
+	width: 80%;
+	padding: .45rem .75rem;
+  margin: 0px auto;
+  font-size: 13px;
+
+}
+ .newslater-3 {
+   margin-top: 10px;
+  }
+.newslater-3 a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px 30px 10px 30px;
+}
+.news-container{
+   padding: 30px 0px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .banner{
+    padding: 100px 0px;
+    }
+    .carasoull-text h1{
+    font-size: 37px;
+    font-weight: 500;
+    line-height: 50px;
+    }
+    .carasoull-text p{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    width: 85%;
+    padding: 20px 0px 30px 0px;
+    }
+    .carasoull-text a{
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    }
+    .carousel-indicators {
+    margin-bottom: 2rem;
+    color: #a066c9;
+    }
+    /*  .agency} */
+    .agency{
+    padding: 20px 0px 0px 0px;
+    }
+    .agency-first-part h3{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    width: 100%;
+    }
+    .agency-first-part h3::before{
+    position: absolute;
+    content: "";
+    background: #753d9d;
+    height: 50px;
+    width: 5px;
+    left: 0;
+    top: 8px;
+    }
+    #iiv{
+      text-align: justify;
+    }
+    .agency-first-part p{
+    text-align: justify;    
+    padding-bottom: 45px;
+    }
+    /*  */
+    .feature-part-content{
+        text-align: center;
+    }
+    .feature-part-content p{
+    color: #0d113d;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 300;
+    transition: .4s all;
+  }
+  /*  */
+  .digital{
+    padding: 20px 0px 50px 0px;
+    margin-top: 25px;
+  }
+  .digital-part-content h3{
+    font-size: 34px;
+    line-height: 40px;
+    font-weight: 600;
+    color: #fff;
+  }
+    .digital-part-content a{
+    font-size: 13px;
+    font-weight: 400;
+    padding: 15px 25px 15px 25px;
+  }
+  .system-part-img img{
+    padding-top: 130px;
+  }
+  .project{
+   background: #753d9d;
+   padding: 40px 0px;
+   margin-top: 5px;
+}
+.portfolio{
+   padding: 30px 0px 50px 0px;
+}
+.supp-1 h5{
+   font-size: 20px;
+   color: #fff;
+   line-height: 28px;
+   font-weight: 500;
+  }
+.supp-2 a{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 20px 10px 20px;
+}
+.system-part-content h3{
+   font-size: 28px;
+   line-height: 32px;
+   font-weight: 600;
+   color: #0d113d;
+  }
+  .form-control {
+	width: 100%;
+	padding: .45rem .75rem;
+  font-size: 13px;
+  margin-left: 70px;
+
+}
+ .newslater-3 {
+  margin-right: -75px;
+  }
+.newslater-3 a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 12px 50px 12px 50px;
+}
+.news-container{
+   padding: 30px 0px;
+  }
+    .service-portfolio-part-1 .portfolio-part-overly .portfolio-part-text h5{
+    font-size: 13px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 600;
+ }
+}
